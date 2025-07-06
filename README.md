@@ -63,7 +63,7 @@ Os dados utilizados são do dataset [The 2021–2023 VNL Player Dataset](https:/
    ```
    git clone https://github.com/ceciliagomes1/analise-vnl-feminino.git
    cd analise-vnl-feminino
-```
+   ```
 
 2. Instale as dependências:
 
@@ -81,14 +81,14 @@ Os dados utilizados são do dataset [The 2021–2023 VNL Player Dataset](https:/
 
 ## 📂 Estrutura do Projeto
 
-```
+   ```
 /analise-vnl-feminino
 ├── /data
 │   └── df_womens_rosters_21_23.csv     # Dataset com estatísticas das jogadoras
 ├── analise_vnl_2021_2023.py            # Código principal da análise
 ├── README.md                           # Descrição do projeto
 ├── requirements.txt                    # Dependências do projeto
-```
+   ```
 
 ---
 
